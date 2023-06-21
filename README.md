@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @HendarMoko
-- 👀 I’m interested in Digital
-- 🌱 I’m currently learning study at Universitas Pancasakti Tegal
+
 - 💞️ I’m looking to collaborate on Akuntan Digital
 - 📫 How to reach me hendarmoko212@gmail.com
 
